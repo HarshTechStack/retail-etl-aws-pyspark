@@ -173,6 +173,7 @@ This project simulates real-world sales pipelines found in retail companies. It 
 Feel free to fork, suggest improvements, or raise issues!
 
 ---
+![License: Custom](https://img.shields.io/badge/license-Custom-lightgrey)
 
 ## 📧 Contact
 
