@@ -1,8 +1,4 @@
-📂 **`retail-etl-aws-pyspark/README.md`**
 
----
-
-````markdown
 # 🛒 Retail Data ETL Pipeline with AWS + PySpark
 
 A complete end-to-end data engineering project that simulates a real-world **Retail / E-Commerce Analytics** workflow using **AWS**, **PySpark**, and **PostgreSQL**. The pipeline ingests raw retail sales data, transforms it using PySpark, and loads it into a PostgreSQL database for further analysis and reporting.
